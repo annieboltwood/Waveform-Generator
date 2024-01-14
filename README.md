@@ -15,11 +15,11 @@ Takes input .wav file and displays single and multichannel waveforms.
 
 ## About
 
-This project was created for my Multimedia Systems course at SFU.\n
-The goal of this project was to:\n
-  --- Interpret the WAV file header and use that information to read the following data\n
-  --- Capture the raw sound bytes from the wav file and store these bytes into arrays using bit shifting\n
-  --- Draw the waveforms onto the screen without using any additional libraries to assist in drawing the waveforms\n
+This project was created for my Multimedia Systems course at SFU.
+The goal of this project was to:
+  --- Interpret the WAV file header and use that information to read the following data
+  --- Capture the raw sound bytes from the wav file and store these bytes into arrays using bit shifting
+  --- Draw the waveforms onto the screen without using any additional libraries to assist in drawing the waveforms
 
 ## Features
   --- File Selector
