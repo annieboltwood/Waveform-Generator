@@ -32,6 +32,7 @@ Thumbs.db
 
 # Ignore BlueJ project files
 .bluej/
+.ctxt
 
 # Ignore Eclipse project files
 .classpath
