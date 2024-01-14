@@ -1,5 +1,6 @@
 /*
- * ANNIE BOLTWOOD
+ * Author: ANNIE BOLTWOOD
+ * October 2023
  */
 
 import javax.swing.*;
