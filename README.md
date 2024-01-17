@@ -15,13 +15,9 @@ Takes input .wav file and displays single and multichannel waveforms.
 This project was created for my Multimedia Systems course at SFU. The goal was to create a program that could read a selected .wav audio file and display the visual representation of the sound waves to the user
 
 ## Features
-  --- File Selector
-  --- Single and Multichannel file reading
-  --- Sample and Frequency Display
-
-## Getting Started
-
-Explain how someone can get started with your project. This could include prerequisites, installation steps, etc.
+- File Selector
+- Single and Multichannel file reading
+- Sample and Frequency Display
 
 ### Prerequisites
 
@@ -29,14 +25,31 @@ Before you begin, ensure you have the following installed on your machine:
 
 - Java Development Kit (JDK) 17 or later
   - [Download JDK](https://adoptium.net/)
-- Apache Maven
-  - [Download Maven](https://maven.apache.org/download.cgi)
+
+## How to Run
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/your-java-project.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Program
+    ```
+
+3. Compile the Java file:
+
+    ```bash
+    javac ReadWav.java
+    ```
+
+4. Run the program:
+
+    ```bash
+    java ReadWav
+    ```
     
-### Installation
-
-xxx
-
-## Usage
-
-xxx
 
