@@ -31,10 +31,10 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-java-project.git
+    git clone https://github.com/annieboltwood/Waveform-Generator.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the Program directory:
 
     ```bash
     cd Program
@@ -51,5 +51,8 @@ Before you begin, ensure you have the following installed on your machine:
     ```bash
     java ReadWav
     ```
+
+5. Test Samples:
+Provided are .wav test samples to see the Waveform output. This is located in the Test-Samples Directory.
     
 
