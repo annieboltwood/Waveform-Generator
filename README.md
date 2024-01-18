@@ -1,3 +1,5 @@
+![Banner](https://github.com/annieboltwood/Waveform-Generator/blob/main/banner.png?raw=true)
+
 # Waveform Generator
 Takes input .wav file and displays single and multichannel waveforms. 
 
