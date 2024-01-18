@@ -10,7 +10,7 @@ Takes input .wav file and displays single and multichannel waveforms.
   
 ## About
 
-This project was created for my Multimedia Systems course at SFU. The goal was to create a program that could read a selected .wav audio file and display the visual representation of the sound waves to the user
+This project was created for my Multimedia Systems course at SFU. The goal was to create a program that could read a selected WAV audio file and display the visual representation of the sound waves to the user. The Java program works by reading the WAV files, organizing audio data into samples, and utilizes drawWaveform() to scale and draw waveforms on the screen.
 
 ## Features
 
