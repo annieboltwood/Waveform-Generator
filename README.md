@@ -5,16 +5,15 @@ Takes input .wav file and displays single and multichannel waveforms.
 
 - [About](#about)
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+- [Prerequisites](#prerequisites)
+- [How to Run](#How-to-Run)
   
 ## About
 
 This project was created for my Multimedia Systems course at SFU. The goal was to create a program that could read a selected .wav audio file and display the visual representation of the sound waves to the user
 
 ## Features
+
 - File Selector
 - Single and Multichannel file reading
 - Sample and Frequency Display
